@@ -35,7 +35,7 @@ Below table summarizes all the model results.
 
 | Model | Total params | Notebook Link | Train-Epoch when Acc>70% | Test-Epoch when Acc>70% | Overall Train Accuracy | Overall Test Accuracy |
 |-------|--------------|---------------|-------------------|---------------|---------------------|-----------------|
-| Group Normalization | xxxx | [GN Notebook](./ERA1_S8_CIFAR10_GN.ipynb) | - | - | --- % | --- % |
+| Group Normalization | 44,364 | [GN Notebook](./ERA1_S8_CIFAR10_GN.ipynb) | - | - | --- % | --- % |
 | Layer Normalization | 44,364 | [LN Notebook](./ERA1_S8_CIFAR10_LN.ipynb) | 5 | 5 | 83.11% | 77.04% |
 | Batch Normalization | 44,364 | [BN Notebook](./ERA1_S8_CIFAR10_BN.ipynb) | 4 | 4 | 85.31% | 77.44% |
 
